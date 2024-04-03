@@ -65,7 +65,7 @@ const Nav = () => {
                     <div className='flex flex-col w-full items-center py-2 gap-5'>
                       <ul className='flex flex-col items-center gap-5'>
                         <Link to='/'>Home</Link>
-                        <a href='https://portfolio-psi-eight-35.vercel.app/' target='_blank'>Who am i</a>
+                        <a href='https://ceo-portfolio.netlify.app/' target='_blank'>Who am i</a>
                         <Link >Terms and conditions</Link>
                       </ul>
                       <div className='w-11/12'>
